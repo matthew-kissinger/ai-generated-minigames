@@ -1,6 +1,6 @@
 AI-Generated Games
 
-A collection of games I made quickly with AI.
+A collection of games I made quickly with AI (one to a few prompts)
 
 Game Links:
 
