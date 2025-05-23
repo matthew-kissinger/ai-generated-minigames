@@ -19,3 +19,5 @@ https://g.co/gemini/share/d34dd520246e
 https://gemini.google.com/app/19c27ad1372539ed
 
 https://g.co/gemini/share/ea6e30b6f205
+
+https://claude.ai/public/artifacts/43f5b735-1c88-4228-a893-29f8e79bde34
