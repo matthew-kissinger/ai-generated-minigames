@@ -25,3 +25,5 @@ https://claude.ai/public/artifacts/06ebfa85-2346-470e-9fa8-a83819b0ad9d
 https://g.co/gemini/share/4ce001cf0a85
 
 https://claude.ai/public/artifacts/4de78b11-58ee-45a0-8072-86de3328cb49
+
+https://claude.ai/public/artifacts/2d6253a5-6d5a-496a-bb64-98ec855b1173
